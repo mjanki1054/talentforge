@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+}
+
+/* or */
+
+.container {
+  overflow: hidden;
+}
